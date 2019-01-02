@@ -1,4 +1,4 @@
 #include<stdio.h>
 int min(){
-printf("hello");
+printf("hello vishal");
 }
